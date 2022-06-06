@@ -8,6 +8,15 @@
     android:weightSum="9"
     tools:context=".MainActivity">
 
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oasis Infobytes Android Internship - Task 3 Calculator "
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        />
     <TextView
         android:id="@+id/input_user"
         android:layout_width="match_parent"
